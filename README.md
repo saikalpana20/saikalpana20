@@ -1,5 +1,5 @@
 - 👤 Hi, I’m saikalpana Marepalli.
-- ☕ good at Java.
+- ☕ good at Python,Java.
 - ⚪ Data Structures and algorithms.basics of C language , HTML , SQL
 - 👀 Aspiring Software Developer.
 - 🌱 Graduated B.Tech(2021-2025).
